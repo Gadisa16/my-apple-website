@@ -1,0 +1,32 @@
+*{
+   text-align: center;
+}
+.canvas{
+    background-color: #000;
+}
+#scoreRecord, button{
+    padding:5px 0;
+    width: 80px;
+    margin-bottom: 6px;
+    border: solid 3px pink;
+    border-radius: 10px;
+    font-weight: 600;
+}
+label{
+    font-weight: 600;
+}
+
+button{
+    background-color: black;
+    color:white;
+}
+
+button:hover{
+    background-color: pink;
+}
+
+.container div{
+    display:inline;
+    margin:0 20px;
+    
+}
